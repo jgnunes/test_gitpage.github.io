@@ -1,7 +1,5 @@
 ---
 title: "Linux tutorial"
-layout: archive
-permalink: /linux/
 ---
 
 # 1. Basic concepts <a name="basic-concepts"></a>  
