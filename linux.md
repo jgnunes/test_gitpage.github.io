@@ -1,3 +1,9 @@
+---
+title: "Linux tutorial"
+layout: archive
+permalink: /linux/
+---
+
 # 1. Basic concepts <a name="basic-concepts"></a>  
 ## 1.1 The terminal <a name="the-terminal"></a> 
 The terminal, or command line, is an interface that allows you to interact with the system through text. It allows the user to run functions or programs, open and browse through directories, see the processes that are currently running, among other things.  
@@ -5,7 +11,7 @@ The terminal, or command line, is an interface that allows you to interact with 
 ## 1.2 The prompt <a name="the-prompt"></a> 
 When you open the terminal, you will see something that looks like this (the exactly text may change depending on the system you are using, but they should all look similar):  
 
-```console  
+```shell 
 user@bash:~$ 
 ```
 
@@ -16,7 +22,7 @@ When running a command, typically the command itself is the first thing you will
 
 Let's check a real example:  
 
-```console
+```shell
 username@bash:~$ ls -l /home/username  
 total 2  
 drwxr-xr-x 18 username users 4096 Feb 17 09:12 Documents
