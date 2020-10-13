@@ -1,6 +1,6 @@
 ---
 title: "Linux tutorial"
-layout: page
+layout: archive
 permalink: /linux/
 ---
 
