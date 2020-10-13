@@ -1,7 +1,7 @@
 ---
 title: "Linux tutorial"
 layout: page
-permalink: https://jgnunes.github.io/test_gitpage.github.io/linux
+permalink: /linux/
 ---
 
 # 1. Basic concepts <a name="basic-concepts"></a>  
